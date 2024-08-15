@@ -7,3 +7,8 @@
 - Dog information input and management
 - Walking time and location input
 - Location-Based Services (LBS) for matching
+
+**Intended User**:
+- Pet Owner
+- Who likes animals
+- Who has routine for walking
