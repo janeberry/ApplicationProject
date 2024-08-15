@@ -1,6 +1,6 @@
 # Dog Walking Matching Application
 
-**Purpose**: This application allows users to input the time they plan to walk their dog and match them with other nearby dog owners for joint walks.
+This application allows users to input the time they plan to walk their dog and match them with other nearby dog owners for joint walks.
 
 **Key Features**:
 - User registration and login
